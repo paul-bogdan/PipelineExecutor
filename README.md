@@ -25,6 +25,8 @@ It includes a demo project (`PipelineExecutorDemo`), which likely showcases how 
 | `PipelineExecutor.sln`  | Visual Studio / .NET solution file.                                     |
 | `.gitattributes`        | Git configuration for attributes.                                       |
 
+
+
 ## Getting Started
 
 Below are suggested installation and usage instructions. You may need to update paths or names depending on your setup.
@@ -32,6 +34,15 @@ Below are suggested installation and usage instructions. You may need to update 
 ### Prerequisites
 - .NET SDK (version matching the solution configuration, e.g., .NET Core or .NET Framework — check the `.sln` file).  
 - An IDE or editor that supports C# (e.g., Visual Studio, Rider, VS Code with C# plugin).  
+
+## Usage
+
+1. Inspect the `PipelineExecutorDemo` project for example code — this demonstrates how to use the core library.  
+2. In your own project, reference the `PipelineExecutor` library (as a project reference or via compiled DLL).  
+3. Define pipelines using the provided types/interfaces (e.g., tasks, operations, stages).  
+4. Execute them through the executor.  
+5. *(Optional)* Extend/customize task types, error handling, logging, etc.  
+
 
 ### Installation
 ```bash
