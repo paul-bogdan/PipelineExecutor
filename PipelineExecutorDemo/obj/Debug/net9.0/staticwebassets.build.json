@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "lAAgsrHXNHi2MVwgtD6jglHKqZ+Hf+xP2byvbPV0tnw=",
+  "Source": "PipelineExecutorDemo",
+  "BasePath": "_content/PipelineExecutorDemo",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
