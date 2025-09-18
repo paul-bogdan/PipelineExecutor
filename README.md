@@ -15,6 +15,15 @@ It includes a demo project (`PipelineExecutorDemo`), which likely showcases how 
 - Written entirely in C#.  
 
 ---
+## Repository Structure
+
+| Folder / File          | Purpose                                                                 |
+|-------------------------|-------------------------------------------------------------------------|
+| `PipelineExecutor`      | Core library – defines pipeline behavior and execution logic.           |
+| `PipelineExecutorDemo`  | Example project showing how to build and run pipelines.                 |
+| `.idea/`                | IDE configuration files (likely JetBrains Rider/IntelliJ).              |
+| `PipelineExecutor.sln`  | Visual Studio / .NET solution file.                                     |
+| `.gitattributes`        | Git configuration for attributes.                                       |
 
 ## Getting Started
 
